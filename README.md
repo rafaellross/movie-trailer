@@ -14,8 +14,8 @@ To make it works you shoud to download and put the 3 files below in a same folde
 
 ###Example
 
-import media #Import Movie class
-import fresh_tomatoes #Import functions to generate the html file
+import media
+import fresh_tomatoes
 
 captainAmerica = media.Movie(
     "Captain America - The First Avenger",
@@ -32,3 +32,5 @@ ironMan = media.Movie(
 
 movies = [toy_story, avatar, kingsman, avengers, captainAmerica, ironMan]
 fresh_tomatoes.open_movies_page(movies)
+
+$ python entertainment_center.py
