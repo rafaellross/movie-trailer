@@ -11,7 +11,6 @@ toy_story = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", #noga
     "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-
 avatar = media.Movie(
     "Avatar",
     "A history of a marine on an alien planet",
