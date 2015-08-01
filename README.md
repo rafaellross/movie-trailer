@@ -12,6 +12,8 @@ To make it works you shoud to download and put the 3 files below in a same folde
 
 #Usage
 
+###Example
+
 import media #Import Movie class
 import fresh_tomatoes #Import functions to generate the html file
 
